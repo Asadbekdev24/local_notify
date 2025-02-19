@@ -1,3 +1,15 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.3.1' // Bu sizda bo‘lishi kerak
+        classpath 'com.google.gms:google-services:4.3.10' // BU SHU YERGA QO‘YILISHI KERAK
+    }
+}
+
+
 allprojects {
     repositories {
         google()
@@ -16,3 +28,5 @@ subprojects {
 tasks.register("clean", Delete) {
     delete rootProject.buildDir
 }
+
+

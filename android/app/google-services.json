@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457909076308",
+    "project_id": "fir-notifi-54676",
+    "storage_bucket": "fir-notifi-54676.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457909076308:android:7c3ac65d40d8b5dfe748c1",
+        "android_client_info": {
+          "package_name": "com.example.todo_with_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdWfiuhZ_FH6pqQOsTPQ9B7jCMsE5AiHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
